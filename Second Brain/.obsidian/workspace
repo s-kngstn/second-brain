@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "d470100774d32de0",
+    "type": "split",
+    "children": [
+      {
+        "id": "87a49ff426574de9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/Mar 04, 2023.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf1cc84b18175df9",
+    "type": "split",
+    "children": [
+      {
+        "id": "24bcd19182d2762a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3683fc51b6cbc296",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5910ffd145bcdcb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fdc69a32100e5330",
+    "type": "split",
+    "children": [
+      {
+        "id": "6621398c800e0e39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60229a61f8b7bda0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/Mar 04, 2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "87a49ff426574de9",
+  "lastOpenFiles": [
+    "Daily Notes/Mar 04, 2023.md",
+    "Tea Leaves.md",
+    "Obsidian.md"
+  ]
+}
