@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "87a49ff426574de9",
+        "id": "99433e07203d4d7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/Mar 04, 2023.md",
+            "file": "nvim-keybindings.md",
             "mode": "source",
             "source": false
           }
@@ -69,15 +69,23 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mar 04, 2023.md",
+                "file": "nvim-keybindings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "97b9241d07844073",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -87,10 +95,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87a49ff426574de9",
+  "active": "99433e07203d4d7d",
   "lastOpenFiles": [
+    "nvim-keybindings.md",
+    "terminal-packages.md",
+    "want-to-learn.md",
+    "Install Neovim.md",
     "Daily Notes/Mar 04, 2023.md",
-    "Want To Learn.md",
     "Tea Leaves.md",
     "Obsidian.md"
   ]
