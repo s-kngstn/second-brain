@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e2139add8bc088ff",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "nvim.md",
-            "mode": "source",
-            "source": false
+        "id": "8f28202c83d8e802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2139add8bc088ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nvim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb58cba416a82593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nvim-keybindings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -69,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvim.md",
+                "file": "nvim-keybindings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +116,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e2139add8bc088ff",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "fb58cba416a82593",
   "lastOpenFiles": [
+    "Daily Notes/Mar 10, 2023.md",
     "nvim.md",
     "from-scratch.md",
     "nvim-keybindings.md",

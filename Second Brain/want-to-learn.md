@@ -6,3 +6,5 @@
 - How to hook up a laravel & docker program from scratch (Laradock)
 - How to build a mobile application
 - Write a demo on how to use Drag & Drop in TypeScript / JavaScript
+
+[[work]]
